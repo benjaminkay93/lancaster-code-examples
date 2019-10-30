@@ -6,11 +6,16 @@
       "src": "/pwa/images/icon-215.jpg",
       "type": "image/png",
       "sizes": "215x215"
+    },
+    {
+      "src": "/pwa/images/icon-645.jpg",
+      "type": "image/png",
+      "sizes": "645x645"
     }
   ],
-  "start_url": "/pwa/?source=pwa",
+  "start_url": "/pwa",
   "background_color": "#f9d355",
   "display": "standalone",
-  "scope": "/pwa/",
+  "scope": "/pwa",
   "theme_color": "#f9d355"
 }
