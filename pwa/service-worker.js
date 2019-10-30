@@ -1,7 +1,7 @@
 self.addEventListener('install', function(event) {
   console.log('Service Worker installed')
   event.waitUntil(
-    caches.open(cacheName).then(function(cache) {
+    caches.open('pwa-cache').then(function(cache) {
       return cache.addAll(
         [
           '/index.html',
