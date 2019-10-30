@@ -4,12 +4,12 @@
   "icons": [
     {
       "src": "/pwa/images/icons-107.jpg",
-      "type": "image/jpg",
+      "type": "image/jpeg",
       "sizes": "107x107"
     },
     {
       "src": "/pwa/images/icons-215.jpg",
-      "type": "image/jpg",
+      "type": "image/jpeg",
       "sizes": "215x215"
     }
   ],
