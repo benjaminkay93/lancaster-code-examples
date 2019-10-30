@@ -5,6 +5,13 @@
     <meta charset="utf-8">
     <title>PWA</title>
     <link rel="manifest" href="/pwa/manifest.json">
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/pwa/service-worker.js')
+        });
+      }
+    </script>
   </head>
   <body>
     <h1>This is a PWA site</h1>
