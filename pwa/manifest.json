@@ -3,12 +3,12 @@
   "name": "Progressive Web Apps",
   "icons": [
     {
-      "src": "/pwa/images/icon-215.jpg",
+      "src": "/pwa/images/icon-215.png",
       "type": "image/png",
       "sizes": "215x215"
     },
     {
-      "src": "/pwa/images/icon-645.jpg",
+      "src": "/pwa/images/icon-645.png",
       "type": "image/png",
       "sizes": "645x645"
     }
