@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+
+<head>
+  <meta charset="utf-8">
+  <title>Hello Lancaster Uni</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      margin: 0;
+      background: lightgrey;
+      font-family: Helvetica, Arial, sans-serif;
+    }
+
+    main {
+      max-width: 980px;
+      margin: auto;
+      padding: 1rem;
+      background: white;
+    }
+
+    h1 {
+      font-size: 2rem;
+    }
+
+    .with-sidebar {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .sidebar {
+      flex-basis: 20rem;
+      flex-grow: 1;
+    }
+
+    .not-sidebar {
+      flex-basis: 0;
+      flex-grow: 999;
+      min-width: 50%;
+    }
+
+    .grid {
+      display: grid;
+      grid-gap: 1rem;
+      grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+    }
+
+    @supports (width: min(20rem, 100%)) {
+      .grid {
+        grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
+      }
+    }
+
+    ul.grid {
+      padding: 0;
+    }
+
+    .card {
+      display: block;
+      min-height: 6rem;
+      background: #87b697;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="with-sidebar">
+    <article class="not-sidebar">
+      <h1>Hello Lancaster Uni</h1>
+
+      <ul class="grid">
+        <li class="card">Flow layouts</li>
+        <li class="card">Table layouts</li>
+        <li class="card">Responsive layouts</li>
+        <li class="card">Flow layouts</li>
+        <li class="card">Table layouts</li>
+        <li class="card">Responsive layouts</li>
+        <li class="card">Flow layouts</li>
+        <li class="card">Table layouts</li>
+        <li class="card">Responsive layouts</li>
+      </ul>
+    </article>
+
+    <aside class="sidebar">
+      <h2>Other layouts</h2>
+
+      <ul class="grid">
+        <li class="card">Flow layouts</li>
+        <li class="card">Table layouts</li>
+        <li class="card">Responsive layouts</li>
+      </ul>
+    </aside>
+  </main>
+</body>
+
+</html>
