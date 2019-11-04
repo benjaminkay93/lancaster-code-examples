@@ -24,6 +24,8 @@ We were asked in the lecture about the impact that React and React Native will h
 * [cern web page](http://info.cern.ch/hypertext/WWW/TheProject.html)
 * [Josh's blog on the box model](https://joshtumath.uk/2019/04/03/eight-css-fundamentals-no-one-teaches-us.html)
 
+### Responsive Web Design
+
 * [viewport Meta tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag )
 * [Ethan Marcotte - Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
 * [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
@@ -31,13 +33,19 @@ We were asked in the lecture about the impact that React and React Native will h
 * [BBC GEL Grid](https://bbc.github.io/gel-grid/ )
 * [Jen Simmons - Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=20QKda7IhJQ)
 
+### https
+
 * [http vs https](https://www.httpvshttps.com/)
 * [http2 fundamentals from Google](https://developers.google.com/web/fundamentals/performance/http2)
 * [TLS in http2](https://daniel.haxx.se/blog/2015/03/06/tls-in-http2/)
 
+### Modern Tooling
+
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 * [Service Workers: An Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
 * [PWAs from Google](https://developers.google.com/web/progressive-web-apps)
+
+### Design Systems
 
 * [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 * [Government Design System (GDS)](https://www.bbc.co.uk/iplayer/storybook/index.html?path=/story/style-guide--colours)
