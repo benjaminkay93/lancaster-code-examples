@@ -13,6 +13,27 @@ Please feel free to see the repository for all examples [here.](https://github.c
 
 ## Questions in the Lecture
 
-We was asked in the lecture about the impact that React and React Native will have going forward in web development. Josh gave an answer around React Native and I (Ben) went into depth a little bit on React and how that is reframing how we should look at Web Development Going forward. I briefly mentioned about how we should now be looking at Client Side and Server Side rendering of pages, which leads to a Single Page App world (Known colloquially as SPA).
+We were asked in the lecture about the impact that React and React Native will have going forward in web development. Josh gave an answer around React Native and I (Ben) went into depth a little bit on React and how that is reframing how we should look at Web Development Going forward. I briefly mentioned about how we should now be looking at Client Side and Server Side rendering of pages, which leads to a Single Page App world (Known colloquially as SPA).
 
 [Here is an overview of Single Page Apps I read and enjoyed.](https://flaviocopes.com/single-page-application/)
+
+## Resources
+
+* [BBC Grad Scheme](bbc.in/segs)
+* [cern web page](http://info.cern.ch/hypertext/WWW/TheProject.html)
+* [Josh's blog on the box model](https://joshtumath.uk/2019/04/03/eight-css-fundamentals-no-one-teaches-us.html)
+* [Ethan Marcotte - Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
+* [viewport Meta tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag )
+* [BBC GEL Grid](https://bbc.github.io/gel-grid/ )
+* [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+* [Lazy Loading Images](https://mathiasbynens.be/demo/img-loading-lazy)
+* [http vs https](https://www.httpvshttps.com/)
+* [http2 fundamentals from Google](https://developers.google.com/web/fundamentals/performance/http2)
+* [Service Workers: An Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
+* [TLS in http2](https://daniel.haxx.se/blog/2015/03/06/tls-in-http2/)
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+* [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+* [Government Design System (GDS)](https://www.bbc.co.uk/iplayer/storybook/index.html?path=/story/style-guide--colours)
+* [iPlayer Design System](https://www.bbc.co.uk/iplayer/storybook/index.html?path=/story/style-guide--colours)
+* [Jen Simmons - Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=20QKda7IhJQ)
+* [PWAs from Google](https://developers.google.com/web/progressive-web-apps)
